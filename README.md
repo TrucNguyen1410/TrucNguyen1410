@@ -13,7 +13,7 @@
 
 ## 🙋‍♀️ Về bản thân
 
-Mình đam mê xây dựng các giải pháp phần mềm toàn diện, từ phân tích thiết kế kiến trúc hệ thống, lập trình ứng dụng đa nền tảng cho đến đảm bảo chất lượng phần mềm (SQA). Mình luôn hướng tới việc viết code sạch, tối ưu hiệu suất và áp dụng các nguyên lý chuẩn mực trong vòng đời phát triển.
+Mình à một Software Engineer trẻ đam mê sự kết hợp giữa Mobile, Web và Trí tuệ nhân tạo (AI) mang lại giá trị thực tiễn
 
 * 🎓 Đang nghiên cứu chuyên sâu về phân tích thiết kế hệ thống (OOAD), Hệ thống hỗ trợ ra quyết định (DSS) và các phương pháp kiểm thử phần mềm.
 * 💼 Hiện đang là Thực tập sinh Phát triển Mobile, làm việc chủ yếu với nền tảng **Flutter** và phối hợp nhóm thông qua Git.
