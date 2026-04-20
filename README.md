@@ -64,13 +64,11 @@ Hệ thống quản lý giáo dục toàn diện hỗ trợ đa luồng người
 ## 📈 Thống kê hoạt động
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrucNguyen1410&show_icons=true&theme=radium&hide_border=true&title_color=02569B" alt="Thống kê của TrucNguyen1410" width="49%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrucNguyen1410&theme=radium&hide_border=true&ring=02569B&fire=02569B" alt="Streak Stats" width="49%" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrucNguyen1410&layout=compact&theme=radium&hide_border=true&title_color=02569B" alt="Top Languages" width="60%" />
-</div>
+
 
 <br/>
 
