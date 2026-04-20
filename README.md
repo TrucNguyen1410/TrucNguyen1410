@@ -28,7 +28,14 @@ Mình đam mê xây dựng các giải pháp phần mềm toàn diện, từ ph�
 | **Ngôn ngữ & Framework** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)|
 | **Cơ sở dữ liệu** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) |
 | **Công cụ & Môi trường** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Kiến thức chuyên môn** | Phân tích UML, System Design, Automated Testing, Reliability Testing, Recommendation Systems |
+
+## 🤖 AI & Công cụ hỗ trợ
+
+| Danh mục | Công cụ sử dụng |
+| :--- | :--- |
+| **AI Assistants** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Vercel AI](https://img.shields.io/badge/Vercel_AI-000000?style=flat-square&logo=vercel&logoColor=white) ![Anti-gravity](https://img.shields.io/badge/Anti--gravity-FF4B4B?style=flat-square&logo=rocket&logoColor=white) |
+| **Cloud & Deployment** | ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white) |
+| **Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) |
 
 ---
 
@@ -63,11 +70,9 @@ Hệ thống quản lý giáo dục toàn diện hỗ trợ đa luồng người
 
 ## 📈 Thống kê hoạt động
 
-<div align="center">
-  
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrucNguyen1410&theme=radium&hide_border=true&ring=02569B&fire=02569B" alt="Streak Stats" width="49%" />
-</div>
-<br/>
+</p>
 
 
 <br/>
