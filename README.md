@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/TrucNguyen1410" width="150px;" style="border-radius: 50%; border: 2px solid #02569B;" alt="Avatar Anh Truc"/>
-  <h1>Hi there, I'm Anh Truc Nguyen! 👋</h1>
-  <p><i>Software Engineering Student (Expected Graduation: March 2027) | Prompt Engineer & Software Developer</i></p>
+  <h1>Hi there, I'm Truc! 👋</h1>
+  <p><i>Software Engineering Student (Expected Graduation: 2027) | Prompt Engineer & Software Developer</i></p>
   
   <p>
     <a href="https://trucnguyen-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
